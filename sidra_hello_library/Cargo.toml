@@ -1,0 +1,11 @@
+[package]
+name = "sidra_hello_library"
+version = "0.1.0"
+authors = ["hp <sidrasajid2000@gmail.com>"]
+edition = "2018"
+description = "meri libary"
+license ="MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
